@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 Hi , I am Ayush Dhar
+### 👨‍💻 Hi , I am Ayush Dhar 
 
 🎓 *Final Year IT Student (SPPU)*
 💡 *Data Analysis & Web Development Enthusiast*
@@ -23,12 +23,10 @@ I love building user-centric digital solutions and exploring how **AI, Data Anal
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
 </p>
 
 ### 📊 Data Analysis & Visualization
@@ -59,7 +57,6 @@ I love building user-centric digital solutions and exploring how **AI, Data Anal
 ---
 
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -80,9 +77,11 @@ I love building user-centric digital solutions and exploring how **AI, Data Anal
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=notion" title="Notion" />
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
+  <img src="https://skillicons.dev/icons?i=powerbi" title="Power BI" />
+  <img src="https://skillicons.dev/icons?i=tableau" title="Tableau" />
 </p>
 
 ---
@@ -92,7 +91,7 @@ I love building user-centric digital solutions and exploring how **AI, Data Anal
 <p align="center">
   <a href="https://github.com/BIGSMOKE18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:aayushdhar18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+
 </p>
 
 📍 Pune, India
