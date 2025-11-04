@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Hi , I am Ayush Dhar
 
 🎓 *Final Year IT Student (SPPU)*
 💡 *Data Analysis & Web Development Enthusiast*
@@ -21,52 +21,44 @@ I love building user-centric digital solutions and exploring how **AI, Data Anal
 ### 💻 Frontend & Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,html,css,js,streamlit" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
 </p>
 
 ### 📊 Data Analysis & Visualization
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,tableau,powerbi,excel,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" title="NumPy" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" title="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=tableau" title="Tableau" />
+  <img src="https://skillicons.dev/icons?i=powerbi" title="Power BI" />
+  <img src="https://skillicons.dev/icons?i=excel" title="MS Excel" />
+  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter Notebook" />
 </p>
 
 ### 🔢 Programming & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,mongodb,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 </p>
 
 ---
 
-## 💼 Professional Experience
 
-**🚀 Web Developer Intern – Cognifyz Technologies** *(Dec 2024 – Jan 2025)*
-
-* Built **interactive dashboards** using JavaScript, HTML, and CSS to track product performance.
-* Collaborated with UI/UX teams and integrated APIs for responsive design.
-* Used **Git & GitHub** for agile team collaboration.
-
-**💻 Java Developer Intern – MotionCut** *(Jan 2025 – Feb 2025)*
-
-* Developed modular **Java programs** using OOP principles, String Handling, Loops, and Collections.
-* Improved debugging efficiency and implemented real-time user input tracking.
-* Collaborated in deployment testing and clean code practices.
-
----
-
-## 🚀 Featured Projects
-
-### 🩺 [Predictive Early Warning System for Multi-Disease Co-occurrence in Young Adults using XAI](https://github.com/BIGSMOKE18)
-
-An AI-powered health risk prediction model integrating **Random Forest** and **XGBoost** to detect early multi-disease patterns in young adults.
-Used **SHAP (Explainable AI)** for transparency and interpretability, ensuring real-time insights from medical data.
-
-### 🚴‍♂️ [Cyclist’s Companion](https://github.com/BIGSMOKE18)
-
-A cross-platform app integrating **real-time GPS ride tracking** and **hyper-local weather analysis** with interactive dashboards.
-Designed an optimized **dark-mode UI/UX** for visibility and energy efficiency.
-
----
 
 ## 📊 GitHub Stats
 
@@ -84,7 +76,13 @@ Designed an optimized **dark-mode UI/UX** for visibility and energy efficiency.
 ## ⚙️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman,notion,vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=notion" title="Notion" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
 </p>
 
 ---
@@ -94,7 +92,7 @@ Designed an optimized **dark-mode UI/UX** for visibility and energy efficiency.
 <p align="center">
   <a href="https://github.com/BIGSMOKE18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:aayushdhar18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- 
+  
 </p>
 
 📍 Pune, India
