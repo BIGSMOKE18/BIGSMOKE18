@@ -1,8 +1,4 @@
-<!-- Typing animation -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Hi+I'm+Ayush+Dhar+👋;Data+Analyst+%7C+Web+Developer+%7C+AI+Enthusiast;Final+Year+IT+Student+at+SPPU;Always+learning+something+new!+🚀" alt="Typing SVG" />
-</h1>
 
 ---
 
