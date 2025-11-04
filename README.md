@@ -32,11 +32,12 @@ I love building user-centric digital solutions and exploring how **AI, Data Anal
   <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" />
   <img src="https://skillicons.dev/icons?i=numpy" title="NumPy" />
   <img src="https://skillicons.dev/icons?i=matplotlib" title="Matplotlib" />
-  <img src="https://skillicons.dev/icons?i=tableau" title="Tableau" />
-  <img src="https://skillicons.dev/icons?i=powerbi" title="Power BI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=excel" title="MS Excel" />
   <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter Notebook" />
 </p>
+
 
 ### 🔢 Programming & Databases
 
@@ -73,12 +74,14 @@ I love building user-centric digital solutions and exploring how **AI, Data Anal
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=notion" title="Notion" />
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
   <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
-  <img src="https://skillicons.dev/icons?i=powerbi" title="Power BI" />
-  <img src="https://skillicons.dev/icons?i=tableau" title="Tableau" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" width="45" height="45" />
 </p>
+
 
 ---
 
