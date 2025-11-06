@@ -74,7 +74,6 @@ I love building user-centric digital solutions and exploring how **AI, Data Anal
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=notion" title="Notion" />
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
   <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" />
